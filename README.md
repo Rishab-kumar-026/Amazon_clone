@@ -1,3 +1,3 @@
-# Amazon clone created by Rishik.
+# Amazon clone created by Rishab.
 <br>
 Need to work with javascript and responsive web designing.
